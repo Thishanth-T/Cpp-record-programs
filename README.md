@@ -25,4 +25,3 @@ g++ program.cpp -o program.exe
 Execution times in Experiments 4 and 8 vary by machine and compiler settings. The PNGs show representative output formats, not guaranteed timings.
 =======
 C++ programming experiments and practical lab records with source code and execution output screenshots.
->>>>>>> ad4fc7a11c561b551437566f9a6359852ed33948
