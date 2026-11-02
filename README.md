@@ -1,5 +1,4 @@
 # Cpp-record-programs
-<<<<<<< HEAD
 
 C++ programming experiments with source code and sample execution outputs.
 
